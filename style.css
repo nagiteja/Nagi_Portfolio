@@ -373,7 +373,7 @@ section .title::before{
     width: 70%;
 }
 .skills-content .right .react::before{
-    width: 60%;
+    width: 80%;
 }
 .skills-content .right .kotlin::before{
     width: 80%;
